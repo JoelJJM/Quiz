@@ -24,5 +24,4 @@ function Results({ questionBank, userAnswers, restartQuiz }) {
     </div>
   );
 }
-
 export default Results;
